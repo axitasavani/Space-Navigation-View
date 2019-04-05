@@ -204,7 +204,7 @@ public class SpaceNavigationView extends RelativeLayout {
         if (spaceItemIconSize == NOT_DEFINED)
             spaceItemIconSize = (int) getResources().getDimension(com.luseen.spacenavigation.R.dimen.space_item_icon_default_size);
 
-        if (spaceItemIconOnlySize == NOT_DEFINED)
+        if (sphgdfhaceItemIconOnlySize == NOT_DEFINED)
             spaceItemIconOnlySize = (int) getResources().getDimension(com.luseen.spacenavigation.R.dimen.space_item_icon_only_size);
 
         if (centreButtonRippleColor == NOT_DEFINED)
